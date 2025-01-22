@@ -1,5 +1,4 @@
 Iranian Commodity Exchange Data Analysis  
-##SAEB
 Executive Summary
 
 This project presents a robust framework for analyzing the Iranian Commodity Exchange's trading data from 2013 onwards. By integrating directly with the exchange's servers, the data is extracted, processed, and stored in an Oracle Database. Leveraging Power BI, a suite of advanced dashboards and reports has been developed to deliver actionable insights and drive data-informed decision-making. This end-to-end solution showcases the power of modern data engineering and visualization technologies to provide a scalable, efficient, and user-centric analytics platform.
